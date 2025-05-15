@@ -1,5 +1,5 @@
 #
-# robots.txt for fenlly.org
+# robots.txt for fenlly.github.io
 #
 
 User-Agent: *
